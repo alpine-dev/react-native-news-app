@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\RNNewsApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_21c18554610594140517e21ee8a650bc24487c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BraDev\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_98375d7511c17cccd43411df378277a336428ffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\RNNewsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_f2bd70f2c1d0ad290dd27e86bf5ab5b268cca604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BraDev\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_3bdcf3277beb684fd8a0fc1331e77f4135018115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\backups\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_f24bce93d6f9e23bb25922b40f92be8d4de40795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\RNNewsApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.50.3_161b4eac4757db37af2768e21e73239027c65de7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\RNNewsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_1f135f30315c8efc774d18017d71215855c4e151.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BraDev\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_72c929c2b06400f92b3b020a4579c76f4c9a9eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\RNNewsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_eccb8563efe49a28e16434f0b3852ccf97aaeeee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\RNNewsApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_e86141667c05007be964f9cf1410484eca1f2c90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\RNNewsApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_08b742b339cce72bfb00b591d1092f6518a96a7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\RNNewsApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.3\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_0d2e4e3522453b9fb561e26d2177b7081351a88f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BraDev\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_0c8dd750428014789fbd7fccfa6141f14db24e67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BraDev\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_cbe9e6326f75b0d19687499429f132d016105d29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\RNNewsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_15b73b3e11958d83a413084fd64123589ab53f00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\RNNewsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_33f2f5ea0b7846b5377ff4902d1373bc11d86aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BraDev\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_95e70f6346d941763e992f0e40eea604ff675623.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\RNNewsApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_2a5a965f1c9fc84732258d7cdd30dd01e69108e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\RNNewsApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_10b781fce111f006a494e1e5b0b38d594162f9d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BraDev\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_68a86b77517f6e42a2f8e26451ff8f9df2eb40cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\tutorials\RNNewsApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="E:\tutorials\RNNewsApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_823612e2e09a63dabef40920193ee7e64e2e1871.jar" />
+    </item>
+
+</items>
