@@ -1,6 +1,8 @@
 import React, { PureComponent } from 'react';
-import { Text, View, ActivityIndicator,Alert } from 'react-native';
+import { Text, View, ActivityIndicator, Alert } from 'react-native';
 import { Container, Header, Body, Title, Content, List, ListItem } from 'native-base';
+
+import Modal from '../components/modal';
 import DataItem from '../components/list_item';
 import { getArticles } from '../services/news';
 
@@ -9,21 +11,41 @@ export class HomeScreen extends PureComponent {
 
     constructor(props) {
         super(props);
+
+        this._handleItemDataOnPress = this._handleItemDataOnPress.bind(this)
+        this._handleModalClose = this._handleModalClose.bind(this)
+
         this.state = {
             isLoading: true,
             data: null,
-            isError: false
+            isError: false,
+            setModalVisible: false,
+            modalArticleData: {}
         }
     }
 
+    _handleItemDataOnPress(articleData) {
+        this.setState({
+            setModalVisible: true,
+            modalArticleData: articleData
+        })
+    }
+
+    _handleModalClose() {
+        this.setState({
+            setModalVisible: false,
+            modalArticleData: {}
+        })
+    }
+
     componentDidMount() {
-        getArticles().then(data=>{
+        getArticles().then(data => {
             this.setState({
-                isLoading:false,
-                data:data
+                isLoading: false,
+                data: data
             })
-        },error=>{
-            Alert.alert(JSON.stringify("Something happend, please try again"))
+        }, error => {
+            Alert.alert("Error", "Something happend, please try again")
         })
     }
 
@@ -39,7 +61,7 @@ export class HomeScreen extends PureComponent {
                     renderRow={(item) => {
                         return (
                             <ListItem>
-                                <DataItem data={item} />
+                                <DataItem onPress={this._handleItemDataOnPress} data={item} />
                             </ListItem>
                         )
                     }} />
@@ -53,9 +75,14 @@ export class HomeScreen extends PureComponent {
                     </Body>
                 </Header>
                 <Content
-                    contentContainerStyle={{ flex:1, backgroundColor: '#fff' }}
-                    padder={false}
-                    children={view} />
+                    contentContainerStyle={{ flex: 1, backgroundColor: '#fff' }}
+                    padder={false}>
+                        {view}
+                </Content>
+                <Modal 
+                    showModal={this.state.setModalVisible}
+                    articleData={this.state.modalArticleData}
+                    onClose={this._handleModalClose}/>
             </Container>
         )
     }
